@@ -5,3 +5,5 @@ entities into things you can grab, move, release, and launch.
 
 The resource pack provides the physics gun's appearance and the floating block
 visuals used as you manipulate the world around you.
+
+[Download releases](https://github.com/pyris-dev/BlockForce-Behavior/releases)
