@@ -1,0 +1,4 @@
+pack.name=BlockForce Resource v1.0.0
+pack.description=Grab, move, and launch blocks and entities with a physics gun.
+
+item.blockforce:physics_gun=Physics Gun

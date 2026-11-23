@@ -1,0 +1,7 @@
+{
+	"texture_data": {
+		"physics_gun": {
+			"textures": "textures/items/physics_gun.png"
+		}
+	}
+}

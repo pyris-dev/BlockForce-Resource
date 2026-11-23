@@ -1,0 +1,24 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "blockforce:fake_block",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/empty"
+      },
+      "geometry": {
+        "default": "geometry.fake_block"
+      },
+      "scripts": {
+        "animate": ["idle"]
+      },
+      "animations": {
+        "idle": "animation.fake_block.idle"
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}
